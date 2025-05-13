@@ -1,0 +1,18 @@
+gradio==5.29.0
+markdownify==1.1.0
+nest_asyncio==1.6.0
+smolagents==1.13.0
+smolagents[telemetry]
+opentelemetry-sdk==1.32.1
+opentelemetry-exporter-otlp==1.32.1
+openinference-instrumentation-smolagents==0.1.11
+langfuse==2.60.4
+litellm==1.67.2
+requests==2.32.3
+google-genai==1.12.1
+pandas==2.2.2
+pydantic_settings==2.9.1
+openpyxl==3.1.5
+board_to_fen @ git+https://github.com/civerson/board_to_fen.git@2c3c6ee4695dfe74d5ff8d0808972b9f2e71c32d
+tensorflow==2.18.0
+keras==3.8.0
